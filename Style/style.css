@@ -76,6 +76,99 @@ body{
     width:25vw;
     font-size: 1vw;
     font-weight: 10;
-    margin: 22vw 0vw 0vw 68vw ;
-    word-spacing:40px;
+    margin: 22vw 0vw 0vw 58vw ;
+}
+.Conocer > pre{
+    position: fixed;
+    display: flex;
+    color: white;
+    width:8vw;
+    font-size: 0.9vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 10;
+    margin: 29vw 0vw 0vw 74vw ;
+    background-color: rgb(42, 105, 240);
+    border-radius: 10vw;
+    height: 2vw;
+    align-items: center;
+
+}
+.Form_Container{
+    position: fixed;
+    display: grid;
+    background-color: white;
+    border-radius: 1vw;
+    width:40vw;
+    height: 80vh;
+    font-weight: 10;
+    margin: 3.8vw 0vw 0vw 5vw ;
+}
+.Consulta > pre{
+    position: fixed;
+    display: flex;
+font-size: 2vw;
+margin: 2vw 0vw 0vw 10vw;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 500;
+}
+
+.Porfavor > pre{
+    position: fixed;
+    display: flex;
+    font-size: 0.7vw;
+    width: 30vw;
+margin:6.5vw 0vw 0vw 7.5vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 500;
+}
+
+.Cedula >p{
+    position: fixed;
+    display: flex;
+    color: black;
+    font-size: 0.7vw;
+margin: 7vw 0vw 0vw 1vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 800;
+
+}
+.Tipo_rectangle > select{
+    position: fixed;
+margin: 6vw 0vw 0vw 1vw;
+width: 35vw;
+height: 5vh;
+}
+.Docu >p{
+    position: fixed;
+    display: flex;
+    color: black;
+    font-size: 0.7vw;
+margin: 7vw 0vw 0vw 1vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 800;
+
+}
+.Numero_Doc input{
+    position: fixed;
+    display: flex;
+margin: 6vw 0vw 0vw 1vw;
+width:34.5vw;
+height: 5vh;
+}
+.Nom>p{
+    position: fixed;
+    display: flex;
+    color: black;
+    font-size: 0.7vw;
+margin: 7vw 0vw 0vw 1vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 800;
+
+}
+.Nom_Rect input{
+    position: fixed;
+    display: flex;
+margin: 24vw 0vw 0vw 1vw;
+width: 36vw;
+height: 3vh;
 }
