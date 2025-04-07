@@ -127,23 +127,23 @@ font-weight: 500;
     display: flex;
     color: black;
     font-size: 0.7vw;
-margin: 7vw 0vw 0vw 1vw;
+margin: 6vw 0vw 0vw 1vw;
 font-family: Arial, Helvetica, sans-serif, Helvetica;
 font-weight: 800;
 
 }
 .Tipo_rectangle > select{
     position: fixed;
-margin: 6vw 0vw 0vw 1vw;
+margin: 4.5vw 0vw 0vw 1vw;
 width: 35vw;
-height: 5vh;
+height: 4vh;
 }
 .Docu >p{
     position: fixed;
     display: flex;
     color: black;
     font-size: 0.7vw;
-margin: 7vw 0vw 0vw 1vw;
+margin: 4.7vw 0vw 0vw 1vw;
 font-family: Arial, Helvetica, sans-serif, Helvetica;
 font-weight: 800;
 
@@ -151,16 +151,16 @@ font-weight: 800;
 .Numero_Doc input{
     position: fixed;
     display: flex;
-margin: 6vw 0vw 0vw 1vw;
-width:34.5vw;
-height: 5vh;
+margin: 3vw 0vw 0vw 1vw;
+width:34.7vw;
+height: 4vh;
 }
 .Nom>p{
     position: fixed;
     display: flex;
     color: black;
     font-size: 0.7vw;
-margin: 7vw 0vw 0vw 1vw;
+margin: 3vw 0vw 0vw 1vw;
 font-family: Arial, Helvetica, sans-serif, Helvetica;
 font-weight: 800;
 
@@ -168,7 +168,59 @@ font-weight: 800;
 .Nom_Rect input{
     position: fixed;
     display: flex;
-margin: 24vw 0vw 0vw 1vw;
-width: 36vw;
-height: 3vh;
+margin:2vw 0vw 0vw 1vw;
+width: 34.7vw;
+height: 4vh;
+}
+
+.Apellido >p{
+    position: fixed;
+    display: flex;
+    color: black;
+    font-size: 0.7vw;
+margin: 2vw 0vw 0vw 1vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 800;
+
+}
+.App_Rect input{
+    position: fixed;
+    display: flex;
+margin:1vw 0vw 0vw 1vw;
+width: 34.7vw;
+height: 4vh;
+}
+.Fecha >p{
+    position: fixed;
+    display: flex;
+    color: black;
+    font-size: 0.7vw;
+margin: 2vw 0vw 0vw 1vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 800;
+
+}
+.Date_Rect input{
+    position: fixed;
+    display: flex;
+margin:1vw 0vw 0vw 1vw;
+width: 34.7vw;
+height: 4vh;
+}
+.Tel >p{
+    position: fixed;
+    display: flex;
+    color: black;
+    font-size: 0.7vw;
+margin: 2vw 0vw 0vw 1vw;
+font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-weight: 800;
+
+}
+.Tel_Rect input{
+    position: fixed;
+    display: flex;
+margin:0.7vw 0vw 0vw 1vw;
+width: 34.7vw;
+height: 4vh;
 }
